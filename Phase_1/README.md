@@ -209,8 +209,8 @@ GPT-2 BPE Tokenizer
 
 Clone the repository:
 
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/universallord007/Neural_Network/tree/God_Tier_projects/Phase_1
+cd God_Tier_projects/Phase_1
 
 Install dependencies:
 
